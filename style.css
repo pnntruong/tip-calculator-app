@@ -191,7 +191,7 @@ input::-webkit-inner-spin-button {
 #custom + label > span:last-child{
     display: none;
 }
-@media (max-width: 375px) {
+@media (max-width: 1060px) {
     .container{
         justify-content: unset;
     }
